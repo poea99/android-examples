@@ -15,7 +15,7 @@ Main repository containing all the example apps demonstrating features/functiona
 > 1. Now move the example app folder inside the `android-examples` folder
 >
 > The reason this is required because each single app uses `ext` variables defined and referenced from `dependencies.gradle` file from the parent folder namely `android-examples`.
-
+> First commit-Anna 
 ## Example apps
 1. [ActivityLifecycle](/ActivityLifecycle)
 1. [AnimatedGradientBackground](/AnimatedGradientBackground)
